@@ -18,8 +18,6 @@ import java.awt.geom.*;
  *
  * The four paths on the tile are represented by an array of int where
  * <tt>array[0] = 5</tt> means we have a path connecting endpoint 0 and endpoint 5.
- *
- * This is provided by the instructor
  */
 public class TsuroButton extends JButton {
 
